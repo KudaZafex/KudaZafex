@@ -1,11 +1,11 @@
-# Hi there, I'm KudaZafex 👋
+# Hi there, I'm Pytez!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KudaZafex.KudaZafex)
+## About Me
 
-I'm a software developer who loves creating web applications and learning new technologies.
+I'm a Python developer from Zimbabwe with a passion for building high-end applications and hacking tools for educational purposes. I have experience in front-end web development, and I'm proficient in:
 
-...
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Python Logo") ![HTML Logo](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-html5-512.png "HTML Logo") ![CSS Logo](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/80-css-512.png "CSS Logo") ![JavaScript Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png "JavaScript Logo") ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png "C# Logo") ![Unity Logo](https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png "Unity Logo")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudaZafex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+In addition to my Python skills, I also have experience in game development using C# and Unity. I love the challenge of creating engaging and immersive games, and I'm always looking for new ways to push the boundaries of what's possible in game development.
 
-[![KudaZafex's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudaZafex)](https://github.com/anuraghazra/github-readme-stats)
+When I'm not coding, you can find me exploring new technologies and tinkering with hardware. I'm love learning new things and expanding my skill set, and I'm always excited to take on new projects and challenges.
